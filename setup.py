@@ -8,17 +8,17 @@ bowling = pd.read_csv("/Users/asmita/Desktop/Data Viz PROJECT/archive-2/all_seas
 points = pd.read_csv("/Users/asmita/Desktop/Data Viz PROJECT/archive-2/points_table.csv")
 
 # Quick look
-# print(summary.head())
-# print(details.head())
-# print(batting.head())
-# print(bowling.head())
-# print(points.head())
+print(summary.head())
+print(details.head())
+print(batting.head())
+print(bowling.head())
+print(points.head())
 
-# print(summary.info())
-# print(details.info())
-# print(batting.info())
-# print(bowling.info())
-# print(points.info())
+print(summary.info())
+print(details.info())
+print(batting.info())
+print(bowling.info())
+print(points.info())
 import pandas as pd
 
 # -------------------------
